@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahanaa-03
-- 👀 I’m interested in Coding and Hacking
-- 🌱 I’m currently learning Software Engg.
+- 👀 I’m good in concepts like Agile, Project Management, Requirement Analysis, Data Mining, Soft Computing, Software Architecture and Design
+- 🌱 I’m currently learning Software Engineering @ VIT, Vellore
 - 💞️ I’m looking to collaborate on C, C++, Java, Python
 - 📫 Reach me via sahanamahesh.2003@gmail.com
 
